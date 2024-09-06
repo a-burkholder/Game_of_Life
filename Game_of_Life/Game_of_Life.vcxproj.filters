@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Game_of_Life.cpp">
+    <ClCompile Include="Game_of_Life_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Cool_Version.cpp">
+    <ClCompile Include="Game_of_Life_2a.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Grid.cpp">

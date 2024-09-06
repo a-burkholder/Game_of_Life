@@ -16,7 +16,7 @@ void updateTurn(bool matrix[], const unsigned short& width, const unsigned short
 void printArray(bool matrix[], const unsigned short& width, const unsigned short& height);
 void printArray(int matrix[], const unsigned short& width, const unsigned short& height);
 
-int main2() {
+int main1() {
     // Enter parameters section and initializations
     printf("Enter 'c' to continue: ");
     char input = ' ';

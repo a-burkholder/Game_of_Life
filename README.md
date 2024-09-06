@@ -8,7 +8,7 @@ I'm doing this in 3 stages, with a branch at stage 2
 
 Stage 1 - Get the logic functioning
 
-Basically, get the game running in the terminal on some arrays of 1s and 0s.
+  Basically, get the game running in the terminal on some arrays of 1s and 0s.
 
 
 Stage 2 - Upgrade the display
